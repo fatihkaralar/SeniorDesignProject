@@ -1,0 +1,12 @@
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
