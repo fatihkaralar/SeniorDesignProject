@@ -5,17 +5,9 @@ using System.Text;
 
 namespace DataAccess.Abstract
 {
-    public interface IGameDal
+    public interface IGameDal: IEntityRepository<Game>
     {
-        List<Game> GetAll();
-
-        void Add(Game game);
-
-        void Update(Game game);
-
-        void Delete(Game game);
-
-        List<Game> GetAllByCategory(int categoryId);    
+          
 
     }
 }

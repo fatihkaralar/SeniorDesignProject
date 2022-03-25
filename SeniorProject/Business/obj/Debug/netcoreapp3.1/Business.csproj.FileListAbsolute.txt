@@ -10,6 +10,5 @@ C:\Users\Berat\source\repos\SeniorProject\Business\obj\Debug\netcoreapp3.1\Busin
 C:\Users\Berat\source\repos\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
 C:\Users\Berat\source\repos\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
 C:\Users\Berat\source\repos\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
-C:\Users\Berat\source\repos\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\Berat\source\repos\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\Berat\source\repos\SeniorProject\Business\obj\Debug\netcoreapp3.1\Business.pdb

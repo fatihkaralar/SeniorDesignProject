@@ -32,9 +32,9 @@ namespace Business.Concrete
            return _gameDal.GetAll();
         }
 
-        public List<Game> GetAllByCategory(int categoryId)
+        public List<Game> GetAllByCategory(int id)
         {
-            return _gameDal.GetAllByCategory(categoryId);
+            return _gameDal.GetAll(g => g.CategoryId == id);
         }
 
         public void Update(Game game)

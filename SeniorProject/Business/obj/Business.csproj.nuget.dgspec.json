@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Business\\Business.csproj": {}
+    "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Business\\Business.csproj": {
+    "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Berat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Berat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Berat\\source\\repos\\SeniorProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Berat\\source\\repos\\SeniorProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Berat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Berat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -104,6 +104,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -123,14 +129,14 @@
         }
       }
     },
-    "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Berat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Berat\\AppData\\Roaming\\NuGet\\NuGet.Config",

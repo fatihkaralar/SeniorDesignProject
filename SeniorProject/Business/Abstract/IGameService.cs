@@ -9,13 +9,15 @@ namespace Business.Abstract
     {
         List<Game> GetAll();
 
+        List<Game> GetAllByCategory(int id);
+
         void Add(Game game);
 
         void Delete(Game game);
 
         void Update(Game game);
 
-        List<Game> GetAllByCategory(int categoryId);
+       
 
     }
 }

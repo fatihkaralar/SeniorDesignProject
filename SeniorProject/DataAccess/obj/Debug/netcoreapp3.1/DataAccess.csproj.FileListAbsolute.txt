@@ -10,3 +10,4 @@ C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\Dat
 C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Berat\source\repos\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete

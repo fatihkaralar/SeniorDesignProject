@@ -9,6 +9,8 @@ namespace Entities.Concrete
     {
         public int GameId { get; set; }
 
+        public int CategoryId { get; set; }
+
         public string GameName { get; set; }
 
         public string Description { get; set; }
@@ -16,8 +18,6 @@ namespace Entities.Concrete
         public string WebAddress { get; set; }
 
         public string Image { get; set; }
-
-        public int CategoryId { get; set; }
 
         public int Score { get; set; }
 

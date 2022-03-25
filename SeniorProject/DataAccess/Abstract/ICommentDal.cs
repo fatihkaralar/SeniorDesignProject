@@ -5,19 +5,9 @@ using System.Text;
 
 namespace DataAccess.Abstract
 {
-    public interface ICommentDal
+    public interface ICommentDal: IEntityRepository<Comment>
     {
-        List<Comment> GetAllByGameId(int gameId);
-
-        void Add(Comment comment);
-
-        void Delete(Comment comment);
-
-        void Update(Comment comment);
-
-        List<Comment> GetById(int commentId);
-
-        List<Comment> GetAll();
+        
 
 
 

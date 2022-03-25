@@ -5,16 +5,8 @@ using System.Text;
 
 namespace DataAccess.Abstract
 {
-    public interface IExpertDal
+    public interface IExpertDal: IEntityRepository<Expert>
     {
-        List<Expert> GetAll();
-
-        void Add(Expert expert);
-
-        void Update(Expert expert);
-
-        void Delete(Expert expert);
-
-        List<Expert> GetById(int expertId);
+        
     }
 }

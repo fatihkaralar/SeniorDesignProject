@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Berat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Berat\\source\\repos\\SeniorProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Berat\\Documents\\GitHub\\SeniorDesignProject\\SeniorProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Berat\\AppData\\Roaming\\NuGet\\NuGet.Config",
