@@ -16,7 +16,7 @@ namespace ConsoleUI
             List<Game> _games;
             _games = new List<Game> {
 
-                new Game{ CategoryId=1 , Description="TEST OYUN!", GameName="Irem kayisci valorant", Score=0 ,
+                new Game{ CategoryId=1 , Description="TEST OYUN!", GameName="Irem kayiscissss valorant", Score=0 ,
               WebAddress="dfgdfgfdg" },
                 new Game{ CategoryId=1 , Description="It is a fps var game and multiplayer game!", GameName="Valorant", Score=0 ,
               WebAddress="https://playvalorant.com/tr-tr/"  },
