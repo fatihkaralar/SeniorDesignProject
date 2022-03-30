@@ -16,8 +16,8 @@ namespace ConsoleUI
             List<Game> _games;
             _games = new List<Game> {
 
-                new Game{ CategoryId=1 , Description="It is a war game and there are lots of violence!", GameName="Call Of Duty", Score=0 ,
-              WebAddress="https://www.callofduty.com/" },
+                new Game{ CategoryId=1 , Description="TEST OYUN!", GameName="Irem kayisci valorant", Score=0 ,
+              WebAddress="dfgdfgfdg" },
                 new Game{ CategoryId=1 , Description="It is a fps var game and multiplayer game!", GameName="Valorant", Score=0 ,
               WebAddress="https://playvalorant.com/tr-tr/"  },
                  new Game{ CategoryId=2 , Description="test desc 3!", GameName="FIFA 20", Score=250 ,
@@ -26,7 +26,7 @@ namespace ConsoleUI
               WebAddress="minecraft web" ,Image= "Test Image" },
 
             };
-            gameManager.Add(_games[3]);
+            gameManager.Add(_games[0]);
             foreach (var game in gameManager.GetAll())
             {
                

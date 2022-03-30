@@ -1,0 +1,10 @@
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\Core\obj\Debug\netcoreapp3.1\Core.pdb

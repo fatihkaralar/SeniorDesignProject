@@ -11,7 +11,9 @@ namespace DataAccess.Concrete.EntityFramework
     {
         public void Add(Child entity)
         {
+            
             throw new NotImplementedException();
+        
         }
 
         public void Delete(Child entity)
