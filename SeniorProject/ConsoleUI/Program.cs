@@ -13,6 +13,11 @@ namespace ConsoleUI
         {
 
             GameManager gameManager = new GameManager(new EfGameDal());
+            CommentManager commentManager = new CommentManager(new EfCommentDal());
+            Comment comment = new Comment { Date = DateTime.Now, Score = 100, Description = "Test desc", GameId = 5, UserId = 55 };
+            Comment comment1 = new Comment { Date = DateTime.Now, Score = 250, Description = "Fen1-Gs0", GameId = 33, UserId = 12 };
+
+
             List<Game> _games;
             _games = new List<Game> {
 
@@ -30,8 +35,9 @@ namespace ConsoleUI
             foreach (var game in gameManager.GetAll())
             {
                
-                Console.WriteLine("Game : "+ game.GameName+ " with category id: "+game.CategoryId+ "Image: "+ game.Image + "Web: "+ game.WebAddress);
+                Console.WriteLine("Game : "+ game.GameName+ " with category id: "+game.CategoryId+ " Image: "+ game.Image + " Web: "+ game.WebAddress);
             }
+            commentManager.Add(comment1);
             
 
             

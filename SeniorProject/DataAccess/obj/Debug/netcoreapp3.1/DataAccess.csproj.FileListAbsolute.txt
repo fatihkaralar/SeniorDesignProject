@@ -23,6 +23,6 @@ C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\DataAccess\obj
 C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
 C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
 C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Berat\Documents\GitHub\SeniorDesignProject\SeniorProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete

@@ -17,6 +17,6 @@ namespace Entities.Concrete
 
         public string Description { get; set; }
 
-        public DateTime Date { get; set; }
+        public DateTimeOffset Date { get; set; }
     }
 }
